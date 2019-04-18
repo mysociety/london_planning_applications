@@ -4,7 +4,7 @@
 
 source "https://rubygems.org"
 
-ruby "2.3.1"
+ruby "2.6.3"
 
 gem "uk_planning_scraper"
 gem "scraperwiki", git: "https://github.com/openaustralia/scraperwiki-ruby.git", branch: "morph_defaults"
