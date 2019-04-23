@@ -1,6 +1,6 @@
 GIT
   remote: https://github.com/mysociety/uk_planning_scraper.git
-  revision: efc95ddb07a6eb850248d6024be22edd2056e742
+  revision: 0c110fa9f8f3889c22d9e722043bc49da22d3d05
   branch: scrape-proptery-details
   specs:
     uk_planning_scraper (0.4.3)
@@ -33,7 +33,7 @@ GEM
       domain_name (~> 0.5)
     http-form_data (2.1.1)
     http_parser.rb (0.6.0)
-    httpclient (2.6.0.1)
+    httpclient (2.8.3)
     mechanize (2.7.6)
       domain_name (~> 0.5, >= 0.5.1)
       http-cookie (~> 1.0)
@@ -50,16 +50,16 @@ GEM
     net-http-digest_auth (1.4.1)
     net-http-persistent (3.0.0)
       connection_pool (~> 2.2)
-    nokogiri (1.10.2)
+    nokogiri (1.10.3)
       mini_portile2 (~> 2.4.0)
     ntlm-http (0.1.1)
     public_suffix (3.0.3)
-    sqlite3 (1.3.10)
-    sqlite_magic (0.0.3)
+    sqlite3 (1.4.0)
+    sqlite_magic (0.0.6)
       sqlite3
     unf (0.1.4)
       unf_ext
-    unf_ext (0.0.7.5)
+    unf_ext (0.0.7.6)
     webrobots (0.1.2)
 
 PLATFORMS
